@@ -1,0 +1,68 @@
+<style>
+
+img {
+  border-radius: 50% !important; 
+}
+.col-md-6:nth-child(1){
+  background-color: #2F4F4F;
+  color: white;
+}
+.col-md-6:nth-child(3){
+	background-color: #2F4F4F;
+}
+.subheading{
+	color:black;
+}
+.page-footer{
+	background-color:white;
+}
+
+
+h5{
+	display: inline;
+}
+h4{
+	display: inline;
+}
+.fa-html5 {
+  color: #2F4F4F;
+}
+.fa-css3-alt{
+  color: #2F4F4F;
+}
+.fa-js-square {
+  color: #2F4F4F;
+}
+.fa-java {
+  color: #2F4F4F;
+}
+.fa-bootstrap {
+  color: #2F4F4F;
+}
+.fa-database {
+  color: #2F4F4F;
+}
+
+.fa-check{
+	color: #2F4F4F;
+}
+.fa-save{
+	color: #2F4F4F;
+
+}
+.fa-facebook-f{
+	color: #2F4F4F;
+	margin:0 60px 30px 0;
+}
+.fa-github{
+	color:#2F4F4F;
+	margin:0 10px 30px 0;
+}
+.text-primary{
+	color:#2F4F4F !important; 
+}
+.fa-dot-circle{
+	color:#2F4F4F;
+}
+
+</style>
